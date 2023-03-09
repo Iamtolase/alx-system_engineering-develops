@@ -1,1 +1,1 @@
-## Navigation script
+shell permissions
